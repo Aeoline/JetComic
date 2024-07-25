@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">JetComic</string>
+    <string name="scroll_to_top">Scroll to Top</string>
+    <string name="search_comic">Search a Comic</string>
+    <string name="comic_price">Rp.%d</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Your Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="total_order">Total Price : Rp.%d </string>
+    <string name="share_message">Mama, minta uang buat beli komik :(</string>
+    <string name="back">back</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="profile_name">Ratu Aubrey Khairani</string>
+    <string name="profile_email">raubrey.kh@gmail.com</string>
+    <string name="no_comic_found">No Comic Found :(</string>
+    <string name="no_comics_in_cart">No Comics in Your Cart :(</string>
+    <string name="jetcomic">JetComic Order</string>
+    <string name="plus_symbol">＋</string>
+    <string name="minus_symbol">—</string>
+</resources>
